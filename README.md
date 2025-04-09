@@ -26,6 +26,7 @@ This project is a **safe, controlled simulation** of how a basic computer virus 
 cd sim_virus_project
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
 ```
 
 ### 2. Start the lab manager CLI
